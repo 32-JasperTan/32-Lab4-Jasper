@@ -1,0 +1,5 @@
+Unit Testing is are tests that are tested individually and independent of each other, to make sure each unit woks according to specifications and all these tests are usually done by the developer.
+it is a WhiteBox type
+
+Integration testing is a combined execution of two or more classes, packages,components, or subsystems and the objective is to reveal interface problems as well as conflicts between integrated parts and these tests are  created by multiple programmers or programming teams.
+it is a BlackBox type
