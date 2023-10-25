@@ -3,3 +3,11 @@ it is a WhiteBox type
 
 Integration testing is a combined execution of two or more classes, packages,components, or subsystems and the objective is to reveal interface problems as well as conflicts between integrated parts and these tests are  created by multiple programmers or programming teams.
 it is a BlackBox type
+
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems and is conducted by a testing team.
+It is a BlackBox testing
+
+The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested and it is done by customers and end-users.
+It is BlackBox Testing
+
+updated by 26_Sean
